@@ -1,0 +1,1 @@
+Em uma nova branch não necessariamente serão criados novos arquivos, ela pode ser criada apenas para trabalhar em alterações de arquivos ja existentes.
